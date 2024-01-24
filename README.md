@@ -1,5 +1,7 @@
 <div align="center">
-  <h1 align="center" style="border-bottom: none"><b>Exercise 2</b> - Bus Lines</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hebrew_University_Logo.svg/1200px-Hebrew_University_Logo.svg.png" alt="huji-logo" height="150px" />
+  <h1 align="center" style="border-bottom: none"><b>Programming Workshop in C & C++ - Exercise 2</b> - Bus Lines</b></h1>
+
 
   <p align="center">
     <b>Bus Lines</b> is the 2nd exercise I've solved in Huji's <b>Programming Workshop in C & C++</b> course.
